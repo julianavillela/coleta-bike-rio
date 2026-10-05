@@ -8,33 +8,94 @@ on:
 permissions:
   contents: write
 
+# Impede duas coletas rodando ao mesmo tempo (evita conflito no push)
+concurrency:
+  group: coleta-bike-rio
+  cancel-in-progress: false
+
+defaults:
+  run:
+    shell: bash   # faz o passo falhar (vermelho) se qualquer comando falhar
+
+env:
+  BASE: https://riodejaneiro.publicbikesystem.net/customer/gbfs/v2/en
+
 jobs:
   coletar:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
 
-      - name: Baixar retrato das estações
+      - name: Coletar status das estacoes (versao 2)
         run: |
-          mkdir -p dados
+          mkdir -p dados/status_v2
           DIA=$(TZ=America/Sao_Paulo date +%Y-%m-%d)
           HORA=$(TZ=America/Sao_Paulo date "+%Y-%m-%d %H:%M:%S")
-          ARQ="dados/status_$DIA.csv"
-          curl -sS --retry 3 --max-time 60 \
-            https://riodejaneiro.publicbikesystem.net/customer/gbfs/v2/en/station_status.json \
-            | jq -r --arg h "$HORA" '.data.stations[] |
-                [$h, .station_id, .num_bikes_available, .num_bikes_disabled,
-                 .num_docks_available, .status, .last_reported] | @csv' > novo.csv
-          if [ ! -f "$ARQ" ]; then
-            echo '"coleta","station_id","num_bikes_available","num_bikes_disabled","num_docks_available","status","last_reported"' > "$ARQ"
-          fi
-          cat novo.csv >> "$ARQ"
-          rm novo.csv
+          ARQ="dados/status_v2/status_$DIA.csv"
 
-      - name: Salvar no repositório
+          curl -sS --fail --retry 3 --max-time 60 "$BASE/station_status.json" -o status.json
+
+          # Confere se veio um JSON valido com estacoes; senao, falha (fica vermelho no Actions)
+          N=$(jq '.data.stations | length' status.json)
+          if [ "$N" -lt 1 ]; then echo "Feed sem estacoes"; exit 1; fi
+          echo "Estacoes recebidas: $N"
+
+          if [ ! -f "$ARQ" ]; then
+            echo '"coleta","station_id","num_bikes_available","num_bikes_disabled","num_docks_available","num_docks_disabled","status","is_installed","is_renting","is_returning","tipos_bikes_disponiveis","last_reported","feed_last_updated"' > "$ARQ"
+          fi
+
+          jq -r --arg h "$HORA" '.last_updated as $lu | .data.stations[] |
+            [ $h,
+              .station_id,
+              .num_bikes_available,
+              .num_bikes_disabled,
+              .num_docks_available,
+              .num_docks_disabled,
+              .status,
+              .is_installed,
+              .is_renting,
+              .is_returning,
+              ((.vehicle_types_available // []) | map("\(.vehicle_type_id):\(.count)") | join("|")),
+              .last_reported,
+              $lu
+            ] | @csv' status.json >> "$ARQ"
+
+          rm status.json
+
+      - name: Salvar cadastro das estacoes (1 vez por dia)
+        run: |
+          mkdir -p dados/estacoes
+          DIA=$(TZ=America/Sao_Paulo date +%Y-%m-%d)
+          ARQ="dados/estacoes/estacoes_$DIA.csv"
+
+          if [ -f "$ARQ" ]; then
+            echo "Cadastro de hoje ja existe, pulando."
+            exit 0
+          fi
+
+          curl -sS --fail --retry 3 --max-time 60 "$BASE/station_information.json" -o info.json
+
+          echo '"station_id","name","address","lat","lon","capacity","physical_configuration","is_charging_station"' > "$ARQ"
+          jq -r '.data.stations[] |
+            [ .station_id, .name, .address, .lat, .lon, .capacity,
+              .physical_configuration, .is_charging_station
+            ] | @csv' info.json >> "$ARQ"
+
+          rm info.json
+
+      - name: Salvar no repositorio
         run: |
           git config user.name "coletor-bike-rio"
           git config user.email "actions@users.noreply.github.com"
           git add dados
-          git commit -m "coleta $(date -u +%Y-%m-%dT%H:%MZ)" || echo "nada novo"
-          git push
+          if git diff --cached --quiet; then
+            echo "Nada novo para salvar."
+            exit 0
+          fi
+          git commit -m "coleta $(date -u +%Y-%m-%dT%H:%MZ)"
+          # Se outra coleta salvou antes, pega a versao mais nova e tenta de novo
+          for i in 1 2 3; do
+            git pull --rebase && git push && exit 0
+            sleep 5
+          done
+          echo "Falha ao enviar para o GitHub"; exit 1
