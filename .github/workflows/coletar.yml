@@ -1,10 +1,9 @@
 name: Coletar Bike Rio
 
 on:
+  workflow_dispatch:
   schedule:
-    - cron: "*/10 * * * *"   # a cada 10 minutos (o GitHub pode atrasar alguns minutos)
-  workflow_dispatch:          # permite rodar na mão pelo site
-
+    - cron: '7,17,27,37,47,57 * * * *'
 permissions:
   contents: write
 
