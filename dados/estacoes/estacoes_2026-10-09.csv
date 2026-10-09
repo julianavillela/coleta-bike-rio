@@ -1,0 +1,404 @@
+"station_id","name","address","lat","lon","capacity","physical_configuration","is_charging_station"
+"1","1 - Central do Brasil","Praça Cristiano Otoni, próximo ao N 1632 da Av. Presidente Vargas",-22.904152,-43.190611,17,"VAULT",false
+"2","2 - Praça da República","Largo do Caco, oposto ao N 141 da Praça da República",-22.907434,-43.190287,19,"VAULT",false
+"3","3 - Praça Tiradentes","Praça Tiradentes, E/F N 2",-22.906848,-43.181887,17,"ELECTRICBIKESTATION",true
+"4","4 - Largo de São Francisco","Rua Ramalho Ortigão, E/F N 24",-22.905594,-43.18007,17,"VAULT",false
+"5","5 - Largo da Carioca","Largo da Carioca, E/F N 25 da Av. Alm. Barroso",-22.907873975195532,-43.1776941415977,23,"REGULAR",false
+"6","6 - Praça Marechal Âncora","Praça Marechal Âncora, oposto ao N 29 da R. Dom Manuel",-22.90411,-43.171636,19,"REGULAR",false
+"7","7 - Bossa Nova Mall","Avenida Almirante Silvio de Noronha, E/F N 365",-22.914619,-43.167037,19,"ELECTRICBIKESTATION",true
+"8","8 - MAM","Avenida Infante Dom Henrique, próximo ao N 85 (Museu de Arte Moderna)",-22.912771,-43.172129,23,"REGULAR",false
+"9","9 - Sala Cecília Meirelles","Rua Visconde de Maranguape, em frente ao número 19 / Esquina com a Travessa do Mosqueira",-22.913925,-43.178669,23,"ELECTRICBIKESTATION",true
+"10","10 - Largo da Glória","Rua Benjamim Constant, E/F N 14",-22.920544,-43.177391,19,"REGULAR",false
+"11","11 - Praça Luiz de Camões","Praça Luiz de Camões / Esquina da Rua do Russel com a Avenida Beira Mar",-22.92074,-43.1746,17,"VAULT",false
+"12","12 - Artur Bernardes","Rua Bento Lisboa,  na lateral do N 55 da Rua Artur Bernardes",-22.928415,-43.179264,19,"VAULT",false
+"14","14 - Pereira da Silva","Rua das Laranjeiras, 206",-22.933408,-43.185815,23,"VAULT",false
+"15","15 - Alegrete","Rua das Laranjeiras, 498",-22.938564,-43.193592,15,"ELECTRICBIKESTATION",true
+"16","16 - Praça São Judas Tadeu","Rua Ererê, E/F N 11, lateral da Praça São Judas Tadeu",-22.94057,-43.198005,23,"ELECTRICBIKESTATION",true
+"17","17 - Oswaldo Cruz","Av. Oswaldo cruz, oposto ao N 400 da Praia no Flamengo, na esquina com a Praça Cuauhtémoque ",-22.938452,-43.173577,19,"VAULT",false
+"18","18 - Praça Nicarágua","Praia de Botafogo, oposto ao N 118, na calçada próxima ao estacionamento",-22.940958,-43.177242,15,"VAULT",false
+"19","19 - Guilhermina Guinle","Rua São Clemente em frente ao nº 195 / Esquina com a Rua Guilhermina Guinle",-22.949624,-43.188683,11,"VAULT",false
+"20","20 - Cobal","Rua Humaitá (canteiro central), em frente ao número 19",-22.953847,-43.196941,23,"VAULT",false
+"21","21 - Real Grandeza","Rua Real Grandeza, em frente ao número 139",-22.954165,-43.192913,16,"ELECTRICBIKESTATION",true
+"22","22 - General Polidoro","Rua General Polidoro, na calçada, em frente ao 260",-22.957157,-43.188818,15,"VAULT",false
+"23","23 - Pró Cardíaco Botafogo","Rua General Polidoro, E/F N 174",-22.956109,-43.185633,19,"ELECTRICBIKESTATION",true
+"24","24 - Lauro Müller","Rua Lauro Müller, na lateral do N 116, esquina com a Av. Lauro Sodré",-22.956292,-43.177169,23,"VAULT",false
+"25","25 - UFRJ Praia Vermelha","Rua General Severiano, oposto ao N 62",-22.952592422138423,-43.17625485508651,19,"ELECTRICBIKESTATION",true
+"26","26 - Iate Clube","Rua Dr. Xavier Sigaud, entre os números 61 e 75",-22.953387,-43.173126,23,"VAULT",false
+"27","27 - Pedra do Leme","Praça Almirante Júlio de Noronha, lateral do N 270 da Avenida Atlântica",-22.962102,-43.165407,31,"VAULT",false
+"28","28 - Praça Demétrio Ribeiro","Praça Demétrio Ribeiro, lateral do número 15 da Av. Princesa Isabel",-22.961823,-43.175519,29,"REGULAR",false
+"30","30 - Santa Clara 98","Rua Santa Clara, E/F ao N 98",-22.970645,-43.187914,17,"ELECTRICBIKESTATION",true
+"31","31 - Santa Clara","Rua Santa Clara, E/F ao N 26",-22.972278,-43.186443,30,"ELECTRICBIKESTATION",true
+"32","32 - Bolívar","Rua Bolívar, E/F N 14",-22.975924,-43.188813,27,"REGULAR",false
+"33","33 - Almirante Gonçalves","R. Almirante Gonçalves, E/F AO N 35, esquina com AV. de Nossa Semhora de Copacabana",-22.979976,-43.190754,11,"ELECTRICBIKESTATION",true
+"34","34 - Conselheiro Lafaiete","Rua Conselheiro Lafaiete, em frente ao número 4, próximo à esquina com a Rua Joaquim Nabuco",-22.986346,-43.192073,31,"VAULT",false
+"35","35 - Pedra do Arpoador","Avenida Francisco Bhering, após o N 185, E/F acesso Parque Garota de Ipanema",-22.988905,-43.191618,35,"REGULAR",false
+"36","36 - Joaquim Nabuco","R. Joaquim Nabuco, na ilha, oposto ao n° 266, próximo à esquina com a Av. Vieira Souto",-22.987292,-43.196126,15,"REGULAR",false
+"37","352 - Gomes Carneiro","Rua Gomes Carneiro,na Lateral do n° 136 da Av.Vieira Souto",-22.986306,-43.197449,14,"ELECTRICBIKESTATION",true
+"38","38 - Garcia D'Ávila","Rua Garcia D'Ávila, oposto ao N 17",-22.98582,-43.209282,31,"ELECTRICBIKESTATION",true
+"39","39 - Aníbal de Mendonça","Rua Aníbal de Mendonça, E/F N 21",-22.98545,-43.211511,11,"ELECTRICBIKESTATION",true
+"40","40 - Afrânio","Avenida Afrânio de Melo Franco, esquina com o número 180 da Av. Delfim Moreira",-22.986212,-43.217517,18,"ELECTRICBIKESTATION",true
+"41","41 - Maria Quitéria","Avenida Epitácio Pessoa (canteiro central) / Em frente ao número 1274 ",-22.980631,-43.207046,18,"ELECTRICBIKESTATION",true
+"42","42 - Metrô Lagoa","Avenida Epitácio Pessoa, oposto ao N 1924, no canteiro central",-22.979019,-43.200969,19,"REGULAR",false
+"43","43 - Parque da Catacumba","Parque do Cantagalo, na Av. Epitácio Pessoa, junto a uma das duas quadras poliesportivas e em frente ao Corte do Cantagalo",-22.975651,-43.200159,17,"VAULT",false
+"44","44 - Epitácio Pessoa 4224","Avenida Epitácio Pessoa, em frente ao número 4224",-22.969634,-43.205854,19,"VAULT",false
+"45","45 - Epitácio Pessoa 4794","Av. Epitácio Pessoa (canteiro central), em frente ao número 4794",-22.965488,-43.203574,19,"REGULAR",false
+"46","46 - Clube Piraquê","Avenida Borges de Medeiros, oposto ao N 2415, no canteiro central",-22.96642,-43.216724,23,"ELECTRICBIKESTATION",true
+"47","47 - Parque dos Patins","Av. Borges de Medeiros, no Parque dos patins. Por trás de um ponto de ônibus, ao lado do estacionamento",-22.972408,-43.217447,15,"VAULT",false
+"48","48 - Parque das Figueiras","Parque das Figueiras, na Av. Borges de Medeiros, 1426",-22.976067,-43.218609,19,"REGULAR",false
+"49","49 - Shopping da Gávea","Rua Marquês de São Vicente,  48",-22.975478,-43.227881,14,"VAULT",false
+"50","50 - Praça Sibélius","Avenida Rodrigo Otávio, oposto ao N 18 da Rua Artur Araripe, no canteiro central",-22.977731,-43.22643,23,"VAULT",false
+"51","51 - Cidade Nova","Rua Afonso Cavalcanti, E/F 455, próximo à passarela do metrô Cidade Nova",-22.910637,-43.205672,17,"VAULT",false
+"52","52 - Medalha Milagrosa","Rua do Matoso, lateral do N 50 da Rua Santa Amélia",-22.915634,-43.212431,15,"VAULT",false
+"53","53 - Gaffrée e Guinle","Rua Mariz e Barros, E/F 824",-22.915849,-43.221549,11,"VAULT",false
+"54","54 - Morais e Silva","Rua Morais e Silva, E/F N 19",-22.912523,-43.222273,19,"VAULT",false
+"55","55 - Mata Machado","Rua Mata Machado, oposto à lateral do N 49 da Rua Paula Souza / canteiro entre a Avenida Maracanã e a Rua Paula Souza ",-22.912498,-43.226217,17,"REGULAR",false
+"56","56 - Praça Varnhagen","Av. Maracanã, E/F N 725 (CANTEIRO CENTRAL)",-22.919349,-43.23363,23,"VAULT",false
+"57","57 - Praça Niterói","Av. Professor Manoel de Abreu, oposto ao número 41 da R. Dona Zulmira / próximo à Praça Niterói",-22.915817,-43.235028,15,"VAULT",false
+"58","58 - Estádio Célio de Barros","Av. Prof. Manoel de Abreu, E/F 76 (CANTEIRO)",-22.912545,-43.233993,23,"VAULT",false
+"59","59 - Boulevard 28 de setembro 157","Boulevard 28 de Setembro, E/F 157 / esquina Rua Hipólito da Costa",-22.914761,-43.240117,11,"VAULT",false
+"60","60 - Maxwell","Rua Maxwell, E/F 300",-22.920075,-43.243779,15,"VAULT",false
+"61","61 - SESC Tijuca","Rua Barão de Mesquita, oposto ao N 498",-22.9243556,-43.2422748,17,"VAULT",false
+"62","62 - Colégio N. S. da Misericórdia","Rua Barão de Mesquita, E/F N 600, esquina com Rua Uruguai",-22.925761,-43.245579,15,"VAULT",false
+"63","63 - Praça Xavier de Brito","Av. Maracanã, E/F 1445 (canteiro central)",-22.932195,-43.242762,14,"VAULT",false
+"64","64 - Metrô Uruguai","R. Itacuruçá, E/F 26",-22.932108,-43.239622,19,"VAULT",false
+"65","65 - Metrô Uruguaiana","Av. Presidente Vargas, próximo ao N 633 e ao acesso do Metrô Uruguaiana",-22.90262,-43.182229,23,"VAULT",false
+"66","66 - Estação de Bondes","RUA LELIO GAMA, E/F AO N 105",-22.910029,-43.178429,11,"ELECTRICBIKESTATION",true
+"67","67 - Gomes Freire","AV.GOMES FREIRE, E/F 698",-22.912732,-43.182991,15,"REGULAR",false
+"68","68 - Rua do Catete","RUA DO CATETE, OPOSTO AO N 72",-22.923425,-43.177206,23,"VAULT",false
+"69","69 - Palácio do Catete","Rua do Catete, E/F 199",-22.926982,-43.176526,23,"REGULAR",false
+"70","70 - Praça São Salvador","Rua SÃO Salvador,E/F 59",-22.93403,-43.1798,23,"VAULT",false
+"71","343 - Figueiredo De Magalhães 28","Rua Figueiredo de Magalhães, E/F 28",-22.971441181662936,-43.1849098407689,19,"VAULT",false
+"73","73 - Furnas","RUA MENA BARRETO, N 158",-22.956443,-43.191601,23,"VAULT",false
+"74","74 - Visconde de Caravelas","Rua Visconde de Caravelas, oposto ao N 89",-22.956734,-43.194864,19,"VAULT",false
+"75","75 - Pinheiro Guimarães","Rua Pinheiro Guimarães, E/F 145",-22.958822,-43.196413,15,"ELECTRICBIKESTATION",true
+"76","76 - Baixo Gávea","PRACA SANTOS DUMONT, OPOSTO AO N 31",-22.9731047,-43.2252855,19,"VAULT",false
+"77","77 - Cine Leblon","Rua Fadel Fadel, E/F 112",-22.980997,-43.221066,17,"ELECTRICBIKESTATION",true
+"78","78 - Fashion Mall","Avenida Almirante Álvaro Alberto, lateral do número 899 da Estrada da Gávea / Shopping Fashion Mall",-22.996072,-43.258595,11,"REGULAR",false
+"79","79 - São Conrado","Avenida Prefeito Mendes de Morais, lateral do número 75 da Avenida Aquarela do Brasil",-22.998672,-43.257936,11,"REGULAR",false
+"80","80 - Praça São Conrado","Avenida Prefeito Mendes de Morais, E/F número 1400, na calçada da orla",-23.000536,-43.270801,18,"REGULAR",false
+"81","81 - General Venâncio Flores","Rua General Venâncio Flores, em frente ao número 130 / Esquina c/ Av. Gen. San Martin",-22.986208,-43.224574,15,"ELECTRICBIKESTATION",true
+"82","82 - Antero de Quental","Avenida Bartolomeu Mitre, lado oposto ao número 214, na Praça Antero de Quental, próximo ao metrô",-22.984952,-43.223151,29,"ELECTRICBIKESTATION",true
+"83","83 - Cupertino Durão","Avenida Delfim Moreira, no canteiro central, em frente ao número 426, próximo à esquina com a Rua Cupertino Durão",-22.986733,-43.220182,31,"REGULAR",false
+"84","84 - Ataulfo de Paiva","Avenida Ataulfo de Paiva, E/F N 375",-22.983846,-43.219619,15,"ELECTRICBIKESTATION",true
+"85","85 - Jardim de Alah","Avenida Borges de Medeiros, em frente ao número 239 / esquina com Av. Ataulfo de Paiva",-22.983844,-43.215927,23,"REGULAR",false
+"86","86 - Henrique Dumont","Avenida Vieira Souto, canteiro central em frente ao número 680, próximo à esquina com a Avenida Henrique Dumont",-22.986038,-43.213832,35,"REGULAR",false
+"87","87 - Barão da Torre 631","Rua Barão da Torre, em frente ao número 631",-22.9828,-43.212324,19,"ELECTRICBIKESTATION",true
+"88","88 - Barão da Torre 577","Rua Barão da Torre, em frente ao número 521",-22.982969,-43.209327,19,"VAULT",false
+"89","89 - Praça Nossa Senhora da Paz","Rua Visconde de Pirajá, E/F N 365",-22.98424,-43.206539,15,"ELECTRICBIKESTATION",true
+"90","90 - Joana Angélica","Rua Joana Angélica, em frente ao número 47",-22.984911,-43.205035,11,"ELECTRICBIKESTATION",true
+"91","91 - Visconde de Pirajá","Rua Visconde de Pirajá, em frente ao número 259",-22.984406,-43.203105,11,"ELECTRICBIKESTATION",true
+"92","92 - Alberto de Campos","Rua Alberto de Campos, E/F 155 / esquina com Rua Vinícius de Moraes",-22.981233,-43.202799,15,"VAULT",false
+"93","93 - Praça Nossa Senhora Auxiliadora","Rua Ministro Raul Machado, oposto ao N 410 da Rua Mário Ribeiro",-22.977866913733774,-43.22225418017882,15,"VAULT",false
+"94","94 - Farme de Amoedo 118","Rua Farme de Amoedo, em frente ao número 118",-22.982509,-43.200572,15,"ELECTRICBIKESTATION",true
+"95","95 - General Osório","Rua Visconde de Pirajá, oposto ao número 66, na Praça General Osório, próximo à saída A do metrô",-22.984724,-43.197051,17,"REGULAR",false
+"96","96 - Posto 6","Rua Francisco Otaviano, em frente ao número 20, próximo ao posto 6",-22.986497,-43.189385,18,"ELECTRICBIKESTATION",true
+"97","97 - Júlio de Castilhos","Rua Júlio de Castilhos, E/F N 8",-22.98388,-43.190429,15,"ELECTRICBIKESTATION",true
+"98","98 - Bulhões de Carvalho","Rua Júlio de Castilhos, E/F N 102, esquina com a Rua Bulhões de Carvalho",-22.984628,-43.193377,14,"ELECTRICBIKESTATION",true
+"99","99 - Sá Ferreira","Rua Sá Ferreira, em frente ao número 219, próximo à saída D do Metrô General Osório",-22.981934,-43.195018,11,"VAULT",false
+"100","100 - Souza Lima","Rua Souza Lima, E/F N 65",-22.981799,-43.190875,11,"ELECTRICBIKESTATION",true
+"101","101 - Leopoldo Miguez","Rua Leopoldo Miguez, E/F N 150",-22.977519,-43.19171,19,"ELECTRICBIKESTATION",true
+"102","102 - Metrô Cantagalo","Praça Eugênio Jardim, oposto ao número 26",-22.976476,-43.194224,27,"REGULAR",false
+"103","103 - Barão de Ipanema","Rua Barão de Ipanema, em frente ao número 94",-22.974293,-43.190964,15,"VAULT",false
+"104","104 - Assunção","Rua Assunção, oposto ao N 13",-22.943651,-43.185984,11,"ELECTRICBIKESTATION",true
+"105","105 - Dias da Rocha","Rua Dias da Rocha, em frente ao número 12",-22.973054,-43.188691,16,"ELECTRICBIKESTATION",true
+"107","107 - Figueiredo Magalhães","Rua Figueiredo Magalhães, em frente ao número 780, esquina com Rua Min. Alfredo Valadão",-22.966082,-43.189412,19,"ELECTRICBIKESTATION",true
+"109","109 - Metrô Siqueira Campos","Rua Tonelero, oposto ao número 215, na praça do Metrô Siqueira Campos",-22.967553,-43.18733,35,"REGULAR",false
+"111","111 - Siqueira Campos","Rua Siqueira Campos, E/F/ N 23",-22.970306,-43.183725,18,"ELECTRICBIKESTATION",true
+"112","112 - Mureta da Urca","Rua Marechal Cantuária, oposto ao N 26",-22.950328,-43.167521,19,"REGULAR",false
+"113","113 - República do Peru","Rua República do Peru, Em Frente N°373",-22.965945058825024,-43.183260880356606,15,"ELECTRICBIKESTATION",true
+"114","114 - Cardeal Arcoverde","Rua Barata Ribeiro, oposto ao número 185",-22.964994,-43.180422,21,"ELECTRICBIKESTATION",true
+"116","116 - Praça do Lido","Rua Belfort Roxo, oposto ao N 88",-22.96479,-43.175808,17,"ELECTRICBIKESTATION",true
+"117","117 - Antônio Vieira","Rua Antônio Vieira, lateral do número 928 da Avenida Atlântica, ao lado do Itaú",-22.964181,-43.172378,27,"REGULAR",false
+"118","118 - Anchieta","Rua Anchieta, E/F N 5, esquina com a Avenida Atlântica",-22.963325710911985,-43.16987662513122,15,"VAULT",false
+"119","119 - Parque Lage","Rua Jardim Botânico, oposto ao número 391, próximo ao Clube Militar",-22.961231,-43.211659,11,"ELECTRICBIKESTATION",true
+"120","120 - Rua da Passagem","Rua General Polidoro, E/F N 15, esquina com a Rua da Passagem",-22.952383,-43.182368,23,"VAULT",false
+"121","121 - Mourisco","Praia de Botafogo, no canteiro oposto ao número 501 (centro empresarial Mourisco)",-22.949665,-43.180933,23,"REGULAR",false
+"122","122 - Botafogo Praia Shopping","Praia de Botafogo, em frente ao número 406 / esquina com R. Prof. Alfredo Gomes",-22.947821,-43.182595,23,"REGULAR",false
+"123","123 - Bambina","Rua São Clemente, em frente ao número 114 / Esquina com a Rua Bambina",-22.949342456091344,-43.18606694536896,14,"ELECTRICBIKESTATION",true
+"124","124 - Praça Joia Valansi","Rua Muniz Barreto, oposto ao número 396, na Praça Joia Valansi",-22.945302,-43.183939,15,"VAULT",false
+"125","125 - Edifício Argentina","Praia de Botafogo, oposto ao N 228, no canteiro central junto à travessia",-22.942719,-43.180859,19,"ELECTRICBIKESTATION",true
+"126","126 - Clarice Índio do Brasil","Rua Clarice Índio do Brasil, em frente ao número 12",-22.940035,-43.178655,15,"ELECTRICBIKESTATION",true
+"127","127 - Honório de Barros","Rua Honório de Barros, E/F N 41",-22.939106,-43.176488,15,"ELECTRICBIKESTATION",true
+"128","128 - Palácio da Cidade","Rua Real Grandeza, oposto ao número 4 / esquina com Rua São Clemente",-22.951258,-43.193996,19,"VAULT",false
+"129","129 - Voluntários 229","Rua Voluntários da Pátria, E/F N 229",-22.953276,-43.189421,11,"VAULT",false
+"131","131 - Metrô Botafogo","Rua Nelson Mandela, na lateral do N 284 da Rua Professor Álvaro Rodrigues",-22.951815,-43.184037,23,"VAULT",false
+"132","132 - Escola Eleva","Rua General Severiano, oposto ao N 159, na ilha",-22.953549,-43.17946,19,"VAULT",false
+"133","133 - Pasteur","Av. Pasteur, oposto ao número 453 / no canteiro central",-22.954075,-43.168657,15,"REGULAR",false
+"134","134 - Pão de Açúcar","Praça General Tibúrcio, próximo ao N 145 (EDI Gabriela Mistral)",-22.954261,-43.16483,23,"REGULAR",false
+"136","136 - Metrô Flamengo","Rua Marquês de Abrantes, ao lado do N 118",-22.937276,-43.178053,15,"ELECTRICBIKESTATION",true
+"137","137 - Tucumam","Praia do Flamengo, oposto ao número 300 / próximo ao acesso subterrâneo",-22.935127752576683,-43.17401294715194,19,"REGULAR",false
+"138","138 - Praça José de Alencar","Rua São Salvador, oposto ao número 1 / esquina com Rua Marquês de Abrantes",-22.933479,-43.177603,15,"VAULT",false
+"139","139 - Buarque de Macedo","Praia do Flamengo, oposto ao N 140, no Parque do Flamengo, próximo à travessia",-22.929609,-43.173929,23,"ELECTRICBIKESTATION",true
+"140","140 - Largo do Machado","Largo do Machado, oposto ao número 311 da Rua do Catete e oposto à Rua Governador Irineu Bornahusen",-22.930687,-43.177714,29,"REGULAR",false
+"141","141 - Barra Shopping","Avenida das Américas, E/F N 4666, próximo ao ponto de ônibus",-22.999406,-43.356646,15,"REGULAR",false
+"142","142 - Praia do Flamengo","Praia do Flamengo, oposto ao N 72",-22.927129,-43.173542,19,"REGULAR",false
+"143","143 - Fluminense","Rua Álvaro Chaves, oposto ao número 6",-22.93597,-43.184319,15,"VAULT",false
+"145","145 - Praça David Ben Gurion","Rua Cardoso Júnior, E/F N 5 / esquina com Rua das Laranjeiras",-22.937868,-43.19026,19,"VAULT",false
+"146","146 - Planetário da Gávea","Av. Padre Leonel França, Oposto ao n 251 no canteiro central",-22.979209,-43.23102,15,"VAULT",false
+"148","148 - Bartolomeu Mitre","Rua Conde de Bernadotte,  na lateral do N 600 da Av. Bartolomeu Mitre",-22.981574,-43.223721,15,"ELECTRICBIKESTATION",true
+"149","149 - Rainha Guilhermina","Rua Rainha Guilhermina, E/F N 117, esquina com a Av. Ataulfo de Paiva",-22.98522,-43.226655,15,"VAULT",false
+"150","150 - Praça Atahualpa","Praça Atahualpa, E/F N 60",-22.988057,-43.227707,15,"ELECTRICBIKESTATION",true
+"152","152 - Parque Brig. Faria Lima","Avenida Borges de Medeiros, oposto ao N 330 da Av. Afranio de Melo Franco, na Praça Brigadeiro Faria Lima",-22.978955,-43.217122,11,"VAULT",false
+"153","153 - Epitácio Pessoa","Avenida Epitácio Pessoa, oposto ao N 850, no canteiro central",-22.980478,-43.211,19,"REGULAR",false
+"154","154 - Curva do Calombo","Avenida Epitácio Pessoa, oposto ao N 3330 e ao lado do quiosque Josef's Bar e Restaurante",-22.973872,-43.205277,17,"REGULAR",false
+"155","155 - Viaduto Saint Hilaire","Avenida Epitácio Pessoa, oposto ao N 5088, próximo ao Viaduto Saint Hilaire",-22.963035,-43.204214,19,"REGULAR",false
+"157","157 - Borges de Medeiros","Avenida Borges de Medeiros, oposto ao N 3607, no canteiro central",-22.962884,-43.207324,19,"REGULAR",false
+"158","158 - Lagoa Vasco da Gama","Avenida Borges de Medeiros, oposto ao N 3407, no canteiro central",-22.962989,-43.209233,19,"ELECTRICBIKESTATION",true
+"159","159 - Hospital da Lagoa","Rua Jardim Botânico, E/F N 568 e oposto ao Hospital da Lagoa",-22.962706,-43.216168,15,"VAULT",false
+"160","160 - Lineu de Paula Machado","Avenida Lineu de Paula Machado, oposto ao N 720, no canteiro central",-22.964274,-43.216241,13,"ELECTRICBIKESTATION",true
+"161","161 - Jd. Botânico 716","Rua Jardim Botânico, em frente ao número 716 (Agência Banco Itaú)",-22.965475,-43.218812,11,"VAULT",false
+"162","162 - Pacheco Leão","Rua Pacheco Leão, E/F N 320",-22.965293,-43.222501,17,"VAULT",false
+"163","163 - Viúva Lacerda","Rua Humaitá, E/F N 110,  no canteiro central",-22.957188,-43.198877,17,"VAULT",false
+"164","164 - Shopping Tijuca","Rua Baltazar Lisboa, oposto ao N 2, esquina com Av. Maracanã",-22.921632,-43.236022,17,"VAULT",false
+"165","165 - Tijuca off shopping","Rua Barão de Mesquita, 320 / esquina com Av. Maracanã",-22.923657,-43.235984,15,"VAULT",false
+"166","166 - Rabicho Tijuca","Rua Conde de Bonfim, ao lado do N 460",-22.925892,-43.235231,11,"VAULT",false
+"167","167 - Metrô Saens Pena","Praça Saens Pena, oposto ao número 352 da Rua Conde de Bonfim / por trás do respirador do metrô",-22.924436,-43.232603,31,"VAULT",false
+"168","168 - Barão de Mesquita 174","Rua Barão de Mesquita, E/F N 174B",-22.920885,-43.231908,19,"VAULT",false
+"169","169 - Conde de Bonfim 526","Rua Conde de Bonfim, E/F N 526",-22.928453,-43.236745,14,"ELECTRICBIKESTATION",true
+"170","170 - Pereira de Siqueira","Rua Pereira de Siqueira, na lateral do N 2 da R. Visc. de Figueiredo",-22.920778,-43.22737,15,"VAULT",false
+"171","171 - Colégio Militar","Rua São Francisco Xavier, E/F N 214",-22.91637,-43.22641,11,"VAULT",false
+"172","172 - Maracanãzinho","Avenida Maracanã, E/F N 450",-22.91525,-43.229358,11,"ELECTRICBIKESTATION",true
+"173","173 - SENAI Tijuca","Rua São Francisco Xavier, E/F N 417",-22.915517,-43.232327,15,"VAULT",false
+"174","174 - São Cristóvão","Av. Maracanã, próximo ao número 229, esquina com a Avenida Radial Oeste",-22.910887,-43.223474,15,"ELECTRICBIKESTATION",true
+"175","175 - Félix da Cunha","Rua Conde de Bonfim, E/F N 35",-22.922963,-43.222357,22,"VAULT",false
+"176","176 - Radial Oeste","Av.pres.Castelo Branco, próx ao número 81, da Av. Maracanã",-22.910669,-43.222438,15,"VAULT",false
+"177","177 - Senador Furtado","Rua Senador Furtado, ao lado do N 121",-22.910341,-43.220415,15,"VAULT",false
+"178","178 - Praça da Bandeira","Rua Mariz e Barros, E/F N 39",-22.912239,-43.215234,19,"VAULT",false
+"179","179 - Haddock Lobo","Rua Haddock Lobo, E/F N 376 / esquina com Rua Professor Gabizo",-22.920984,-43.21863,19,"VAULT",false
+"180","180 - Joaquim Palhares","Rua Joaquim Palhares, oposto ao 411",-22.91255,-43.21033,15,"REGULAR",false
+"181","181 - Júlio do Carmo","Rua Júlio do Carmo, atrás do N 33 da R. Afonso Cavalcanti",-22.910538,-43.202407,15,"VAULT",false
+"182","182 - Metrô Praça Onze","Rua Carmo Neto, ao lado do 143 / ao lado do Centro Integrado de Comando e Controle (CICC)",-22.909654,-43.200089,19,"VAULT",false
+"183","183 - Defensoria Pública","Av. Mal. Câmara, E/F N 300",-22.908761918481915,-43.16958519084206,19,"VAULT",false
+"184","184 - Cinelândia","Avenida Rio Branco, oposto ao N 245",-22.910896,-43.175531,19,"REGULAR",false
+"185","185 - Rua da Lapa","Rua da Lapa, lateral do número 148 / próximo à esquina com Rua Joaquim Silva ",-22.915535,-43.177851,17,"ELECTRICBIKESTATION",true
+"186","186 - Lúcio de Mendonça","Rua Lúcio de Mendonça, E/F N 75",-22.915451,-43.224546,11,"VAULT",false
+"187","187 - Extra Mariz e Barros","Rua Mariz e Barros, E/F N 1107",-22.91791,-43.223971,17,"VAULT",false
+"188","188 - Metrô São Francisco Xavier","Avenida Heitor Beltrão, oposto ao N 58 da R. S. F. Xavier, no Largo São Maron",-22.920432,-43.222574,17,"VAULT",false
+"189","189 - Mariz e Barros","Rua Mariz e Barros, E/F N 525 / Esquina com a R. Campos Sales",-22.914512,-43.21935,15,"VAULT",false
+"190","190 - Metrô Afonso Pena","Praça Afonso Pena, oposto ao N 84 da Rua Campos Sales",-22.91793,-43.217588,31,"REGULAR",false
+"192","192 - Saens Pena Medical Center","Rua Conde de Bonfim, E/F N 251",-22.923702,-43.229355,10,"VAULT",false
+"193","193 - Uruguai","Rua Uruguai, E/F N 297",-22.928838029428295,-43.24337124910849,15,"VAULT",false
+"194","194 - Batalhão de Polícia do Exército","Rua Barão de Mesquita, em frente ao número 459",-22.924204,-43.238897,17,"ELECTRICBIKESTATION",true
+"195","195 - Senador Muniz Freire","Rua Sen. Muniz Freire, em frente ao número 9",-22.921017,-43.240144,15,"VAULT",false
+"196","196 - Ribeiro Guimarães","Rua Ribeiro Guimarães, E/F N 360",-22.918668,-43.237611,15,"ELECTRICBIKESTATION",true
+"197","197 - Octacílio Negrão de Lima","Av. Eng. Octacílio Negrão de Lima, E/F N 175, esquina com Rua Gonzaga Bastos",-22.917976,-43.241554,15,"VAULT",false
+"198","198 - Conde de Bonfim","Rua Conde de Bonfim, E/F N 160",-22.92455,-43.22681,15,"VAULT",false
+"199","199 - Metrô Estácio","Rua Ulysses Guimarães, oposto ao N 16, dentro da praça do Metrô Estácio, próximo ao acesso A do metrô",-22.9129304632136,-43.20610118657759,27,"VAULT",false
+"200","200 - Armazém da Utopia","Rua Silvino Montenegro, na lateral do N 379 da Av. Rodrigues Alves",-22.8932617,-43.19071100000001,15,"VAULT",false
+"201","201 - AquaRio","Av Rodrigues Alves, atrás do AquaRio",-22.892672,-43.19325,15,"VAULT",false
+"202","202 - Armazém 3","Av. Barão de Tefé, oposto ao número 7 / esquina com Av. Rodrigues Alves",-22.89506145034858,-43.1868490601883,19,"REGULAR",false
+"203","203 - Praça Mauá","Praça Mauá, oposto ao número 13 / próximo ao Museu de Arte do Rio",-22.896865,-43.181523,19,"REGULAR",false
+"204","204 - São Bento","Rua São Bento, em frente ao número 18",-22.898395,-43.179494,17,"ELECTRICBIKESTATION",true
+"205","205 - Praça Barão de Ladário","Praça Barão de Ladário, na Rua Visconde de Inhaúma, oposto ao N 118 da Rua Primeiro de Março",-22.898935,-43.176871,17,"REGULAR",false
+"206","206 - Tribunal Marítimo","Rua do Rosário, oposto ao N° 1",-22.901348,-43.174971,15,"VAULT",false
+"207","207 - R. da Alfândega","Rua da Alfândega, E/F N 70, esquina com Av. Rio Branco",-22.902055,-43.178977,23,"ELECTRICBIKESTATION",true
+"208","208 - Av. Passos","Av. Passos, em frente ao número 120 / próximo à Av. Marechal Floriano",-22.902012,-43.184297,17,"ELECTRICBIKESTATION",true
+"209","209 - Rua da Quitanda","Rua da Quitanda, E/F N 50",-22.904005,-43.176561,19,"VAULT",false
+"210","210 - Praça XV","Praça XV, ao lado do N 20",-22.902256,-43.173943,29,"REGULAR",false
+"212","212 - Buraco do Lume","Praça Mário Lago, oposto ao N 70 da Rua São José",-22.906208,-43.175917,15,"VAULT",false
+"213","213 - Praça do Expedicionário","Praça do Expedicionário, ao lado do N 37 da Rua Dom Manuel (Tribunal de Justiça do Rio de Janeiro)",-22.906758,-43.172874,19,"VAULT",false
+"214","214 - Poeta Manuel Bandeira","Av. Predidente Antônio Carlos, oposto ao número 51",-22.910231,-43.171988,21,"ELECTRICBIKESTATION",true
+"215","215 - Aeroporto Santos Dumont","Praça Senador Salgado Filho, oposto ao Aeroporto Santos Dumont, no canteiro próximo ao Monumento a Alberto Santos Dumont",-22.911303,-43.168147,23,"REGULAR",false
+"217","217 - Balança Mas Não Cai","Av. Presidente Vargas, em frente ao número 1997 (Centro Integrado da Pessoa com Deficiência)",-22.906336,-43.193822,15,"VAULT",false
+"220","220 - Santuário Nossa Senhora de Fátima","Rua Riachuelo, em frente ao número 366 / oposto ao Santuário Nossa Senhora de Fátima",-22.912412,-43.19205,19,"VAULT",false
+"221","221 - Rua do Riachuelo","Rua do Riachuelo, E/F N 136",-22.914633,-43.185165,15,"VAULT",false
+"222","222 - Rua do Senado","Rua do Senado, E/F N 230",-22.910626,-43.189274,17,"REGULAR",false
+"223","223 - Henrique Valadares","Avenida Henrique Valadares, E/F N 23",-22.911129,-43.185822,17,"ELECTRICBIKESTATION",true
+"224","224 - Catedral Metropolitana","Av. República do Chile, oposto ao número 330 / próximo à saída do estacionamento da Catedral Metropolitana",-22.909549,-43.180911,15,"ELECTRICBIKESTATION",true
+"225","225 - República do Líbano","Rua República do Líbano, E/F N 22",-22.907336,-43.185757,11,"VAULT",false
+"226","226 - Rua do Rezende","Rua do Rezende, E/F N 166",-22.913766,-43.188012,23,"ELECTRICBIKESTATION",true
+"228","228 - Praça do Itamaraty","Avenida Tomé de Souza, oposto ao N 3, na Praça do Itamaraty",-22.90346,-43.187208,19,"VAULT",false
+"229","229 - Hotel Novo Mundo","Praia do Flamengo, oposto ao N 18",-22.924956,-43.172841,17,"ELECTRICBIKESTATION",true
+"230","230 - Metrô São Conrado","Acesso do Metrô São Conrado, lateral do número 601 da Avenida Aquarela do Brasil / esquina com a Estrada da Gávea",-22.993594,-43.253625,19,"REGULAR",false
+"231","231 - Prefeito Mendes de Morais","Av. Pref Mendes de Morais, em frente ao número 1000 / esquina com Rua Henrique Midosi",-22.99956,-43.266257,15,"VAULT",false
+"232","232 - Parque Madureira I","Portão 1 do Parque Madureira, R. Antônio de Abreu, Próximo ao Shopping Madureira",-22.870154,-43.340157,29,"REGULAR",false
+"233","233 - Parque Madureira II","Portão 6 do Parque Madureira, próximo à Estrada do Sapé, 1098 e ao acesso à estação de trem Rocha Miranda",-22.856222,-43.351914,31,"REGULAR",false
+"234","234 - Pier Barra da Tijuca","Av. do Pepê, oposto ao número 56 / próximo ao Pier Barra da Tijuca",-23.01446,-43.297974,15,"REGULAR",false
+"235","235 - R. Tenente Airton Pereira","Rua Tenente Airton Pereira, na lateral do número 406 da Av. do Pepê",-23.014507,-43.301609,15,"VAULT",false
+"236","236 - Praça Jornalista Mário Filho","Av. Belisário Leite de Andrade Neto, oposto ao número 80 / próximo à Praça Jornalista Mário Filho",-23.014772,-43.306659,15,"REGULAR",false
+"237","237 - Adilson Serôa da Motta","Av. Adilson Serôa da Motta, E/F N 134",-23.013687,-43.309691,14,"REGULAR",false
+"238","238 - Port Brise","Avenida Lúcio Costa, E/F N 1700, esquina com Av. Afonso de Taunay",-23.013824,-43.313852,14,"VAULT",false
+"239","239 - Praça São Perpétuo","Praça São Perpetuo, oposto ao número 10 da Rua Prof. Coutinho Fróis / esquina com Av. Lúcio Costa",-23.012993,-43.317209,15,"REGULAR",false
+"240","240 - Windsor Barra","Avenida Lúcio Costa em frente ao número 2900, esquina com a Rua Martinho de Mesquita",-23.0121746,-43.3212711,14,"VAULT",false
+"241","241 - Posto 4 Barra","Av. Lúcio Costa, próximo ao número 3150",-23.011268,-43.325769,15,"VAULT",false
+"242","242 - Posto 5 Barra","Avenida Lúcio Costa, próximo ao N 3600, no canteiro próximo ao quiosque",-23.010631,-43.331118,13,"ELECTRICBIKESTATION",true
+"244","244 - Condomínio Vivendas","Avenida Lúcio Costa, E/F N 3646 / esquina com Rua Gastão Formenti",-23.010233,-43.339543,11,"VAULT",false
+"246","246 - Barrabella","Avenida Lúcio Costa, E/F N 4600",-23.010119,-43.345015,15,"REGULAR",false
+"247","247 - Praça Pimentinha","Avenida Evandro Lins e Silva, oposto ao N 222 da Av. Afonso Arinos de Melo Franco",-23.003723,-43.325224,18,"VAULT",false
+"248","248 - Downtown","Avenida das Américas, E/F N 500, próximo ao acesso de automóveis",-23.00429,-43.320717,15,"ELECTRICBIKESTATION",true
+"250","250 - Professor Souza Araújo","Praça Professor Souza Araújo, oposto ao N 390 da Rua Anássio Venturi",-23.007213,-43.316902,11,"VAULT",false
+"252","252 - Parque das Rosas","Rua Maria Philomena Lage, ao lado do N 3757 da Av. das Américas (Posto BR Parque das Rosas)",-23.000749,-43.351815,19,"VAULT",false
+"253","253 - Olegário Maciel","Av. Gen. Guedes da Fontoura, em frente ao N 760",-23.01260405642333,-43.30550795767213,11,"VAULT",false
+"254","254 - Museu do amanhã","Praça Mauá, oposto ao N 1 da Av. Rio Branco",-22.896688,-43.180564,11,"REGULAR",false
+"255","255 - Praça Euvaldo Lodi","Av. Olegário Maciel, E/F N 566 / oposto à Praça Euvaldo Lodi",-23.008688,-43.304132,11,"VAULT",false
+"256","256 - Humaitá","Rua Humaitá, E/F N 275",-22.960477,-43.202726,15,"ELECTRICBIKESTATION",true
+"257","257 - Metrô Jardim Oceânico","Av. Armando Lombardi, na lateral do N 597, próximo à estação de metrô Jardim Oceânico",-23.007348,-43.310954,23,"ELECTRICBIKESTATION",true
+"259","259 - Posto 9 Recreio","Av. Lúcio Costa, oposto ao número 15610, no canteiro central / próximo ao Posto 9",-23.022885,-43.44945,17,"REGULAR",false
+"260","260 - Posto 12 Recreio","Avenida Lúcio Costa,  oposto ao N 17700, na orla em frente ao Quiosque Vitória",-23.030275,-43.468991,27,"REGULAR",false
+"261","261 - Praça Soldado Geraldo da Cruz","Rua Prudência Do Amaral, oposto ao número 216 / Praça Soldado Geraldo da Cruz",-23.010153,-43.320955,15,"VAULT",false
+"262","262 - Jardim Marapendi","Avenida Lúcio Costa, E/F N 5210",-23.01011,-43.35092,15,"VAULT",false
+"263","263 - Almare","Avenida Lúcio Costa, E/F N 6200, esquina com a Rua São Régulo",-23.010269,-43.357176,11,"VAULT",false
+"271","271 - Alfa Barra II","Av. Lúcio Costa, E/F N 7000",-23.010769,-43.369417,11,"REGULAR",false
+"273","273 - Sacadura Cabral","Rua Sacadura Cabral, E/F N 49",-22.897355,-43.18235,17,"REGULAR",false
+"285","285 - Gláucio Gil Praia","Avenida Lúcio Costa (calçadão da praia), do lado oposto ao número 16400 e próximo à esquina com a Avenida Gláucio Gil",-23.025158,-43.457011,11,"VAULT",false
+"287","287 - Dez e meio","Avenida Lúcio Costa (calçadão da praia), oposto ao N 17194 e oposto à Rua Desembargador Oscar Tenório",-23.02722,-43.463301,11,"VAULT",false
+"290","290 - Barra World","Av. Alfredo Balthazar da Silveira, oposto ao N 335, no canteiro central",-23.00989,-43.441094,11,"VAULT",false
+"293","293 - Praia da Macumba","Rua Zélio Valverde, na lateral do N 121 da Av. Paulo Tapajós",-23.03135,-43.479584,19,"VAULT",false
+"295","295 - Clube Caiçaras","Av. Epitácio Pessoa, Oposto ao n° 604",-22.98063,-43.2132,19,"VAULT",false
+"299","309 - AQWA Corporate","Rua Rivadávia Corrêa, na lateral do N 299 da Rua Arlindo Rodrigues",-22.893595,-43.196273,11,"VAULT",false
+"304","304 - Marechal Jofre","Rua Marechal Jofre, E/F nº 88 e 92",-22.918949,-43.265701,11,"VAULT",false
+"305","335 - Teófilo Otoni","Rua Teófilo Otoni, E/F N°64",-22.90013,-43.17902,23,"VAULT",false
+"313","344 - Pirajá 153","Rua Visconde de Pirajá.E/F Ao N° 153",-22.984553,-43.199943,11,"VAULT",false
+"314","314 - AABB Tijuca","Rua Haddock Lobo, E/F N 219",-22.91919,-43.21365,17,"VAULT",false
+"329","144 - Casas Casadas","Rua das Laranjeiras, em frente ao 291",-22.93517,-43.18853,17,"REGULAR",false
+"330","151 - Shopping Leblon","Avenida Afrânio de Melo Franco, em frente ao 290",-22.98214,-43.21791,11,"ELECTRICBIKESTATION",true
+"336","318 - Maxwell 431","Rua Uruguai, na lateral do numero 431 da Rua Maxwell",-22.922514,-43.247541,17,"VAULT",false
+"337","251 - Campo de São Cristóvão","Campo de São Cristóvão, oposto ao N 71, no canteiro central",-22.89841,-43.21942,19,"VAULT",false
+"338","288 - Campo de São Cristóvão 2","Campo de São Cristóvão, oposto ao N 200, no canteiro central",-22.89562,-43.22044,23,"VAULT",false
+"339","322 - Tijolinho","Rua Barão de Mesquita, E/F N 891, esquina com a Rua Maxwell",-22.924527,-43.25157,17,"VAULT",false
+"340","243 - Rua São Cristóvão","Rua São Cristóvão, E/F N 640",-22.901789,-43.21728,15,"VAULT",false
+"342","302 - Voluntários da Pátria","Rua Voluntários da Pátria, E/F N 150",-22.95221,-43.18683,11,"VAULT",false
+"343","320 - Silva Pinto","Rua Silva Pinto, na lateral do N 373 do Boulevard 28 de Setembro",-22.9163,-43.2477,15,"VAULT",false
+"344","351 - Constante Ramos","Rua Constante Ramos, na lateral do N 187 da Rua Domingos Ferreira",-22.974335524115848,-43.18827769577026,15,"VAULT",false
+"345","280 - Praça Edmundo Rêgo","Praça Edmundo Rêgo, oposto ao N 84 da Av. Júlio Furtado",-22.92278,-43.26436,27,"VAULT",false
+"346","330 - Praça da Apoteose","Rua Frei Caneca, próximo ao N 239",-22.91418,-43.19595,31,"VAULT",false
+"347","353 - Janeiro Hotel","Avenida Bartolomeu Mitre, E/F N 33",-22.98659,-43.22268,27,"VAULT",false
+"349","130 - General Glicério","Rua General Glicério, E/F N 156",-22.94019,-43.19166,15,"VAULT",false
+"350","310 - Bairro de Fátima","Avenida Nossa Senhora de Fátima, E/F N 50",-22.91656,-43.18829,23,"VAULT",false
+"351","312 - Lavradio","Rua do Lavradio, E/F N 71",-22.90921,-43.1832,19,"VAULT",false
+"352","328 - Chafariz do Lagarto","Rua Frei Caneca, próximo ao N 209",-22.91173,-43.19511,11,"VAULT",false
+"353","211 - Quinta da Boa Vista","Rua General Herculano Gomes, oposto ao N 1340, no canteiro central",-22.909385,-43.222671,15,"VAULT",false
+"354","218 - Praça Pedro II","Rua São Cristóvão, na lateral do N 320",-22.904475,-43.218258,11,"VAULT",false
+"355","258 - Largo Pedro Lobiano","Avenida do Exército, E/F N 13",-22.899794,-43.222834,11,"VAULT",false
+"356","284 - Praça Waldemar Costa e Silva","Rua Francisco Eugênio, E/F N 228",-22.907086,-43.217758,15,"VAULT",false
+"357","291 - Paróquia de São Cristóvão","Rua da Igrejinha, oposto ao N 22",-22.895927,-43.215529,17,"VAULT",false
+"358","317 - HUPE","Rua Boulevard 28 de Setembro, E/F N 62",-22.914022967612794,-43.23756358745362,15,"VAULT",false
+"360","324 - Aristides Lobo","Rua Aristides Lobo, E/F N 115",-22.920513333275455,-43.208599946696474,11,"VAULT",false
+"361","325 - Praça Condessa Paulo de Frontin","Praça Condessa Paulo de Frontin, oposto ao N 19",-22.92444,-43.2092,19,"VAULT",false
+"362","341 - Colégio Sion","Rua Cosme Velho, E/F N 9",-22.93822,-43.19518,23,"VAULT",false
+"363","275 - ASBAC","Rua Barão de Mesquita, E/F N 898",-22.92402,-43.25465,11,"VAULT",false
+"364","315 - E. M. Mário Cláudio","Rua Haddock Lobo, E/F N 148",-22.91744,-43.21128,23,"VAULT",false
+"365","316 - Extra Maracanã","Rua José Higino, E/F N 176, no canteiro central",-22.9278852,-43.2397442,11,"VAULT",false
+"366","321 - Boulevard Rio Shopping","Rua Barão de São Francisco, E/F N 236",-22.91878,-43.25074,27,"VAULT",false
+"367","327 - McDonald's Off Shopping","Rua Barão de Mesquita, oposto ao N 331",-22.92302,-43.23444,31,"VAULT",false
+"370","303 - Carvalho de Mendonça","Rua Carvalho de Mendonça, E/F N 13",-22.96542067152967,-43.17840656864776,17,"VAULT",false
+"371","311 - Sinuca da Lapa","Rua Riachuelo, E/F N 54",-22.91403004084207,-43.182339298147575,15,"VAULT",false
+"372","340 - Praia de Botafogo","Praia de Botafogo, E/F N 340",-22.94583,-43.18253,15,"VAULT",false
+"373","301 - Bartolomeu Portela","Rua Bartolomeu Portela, na lateral do N 168 da Av. Pasteur",-22.95085,-43.17622,14,"VAULT",false
+"374","300 - Fernandes Guimarães","Rua Fernandes Guimarães, 12",-22.954115022793417,-43.18289221052019,19,"VAULT",false
+"375","346 - Av. Maracanã","Avenida Maracanã, E/F N 592",-22.917395,-43.231146,15,"VAULT",false
+"376","357 - Emília Sampaio","Rua Emília Sampaio, 91",-22.919433,-43.257601,11,"VAULT",false
+"377","249 - Edifício São Januário","Rua São Januário, E/F 153",-22.898963,-43.2259274,19,"VAULT",false
+"378","354 - Quinta D'Or","10 Rua General Herculano Gomes",-22.9057994,-43.2203959,15,"VAULT",false
+"379","72 - Promenade São Clemente","Rua São Clemente, E/F N 272",-22.949928,-43.1909853,17,"ELECTRICBIKESTATION",true
+"381","245 - Rua Sabino Vieira","Rua Sabino Vieira, 4",-22.901672,-43.225704,15,"VAULT",false
+"382","319 - Visconde de Abaeté","Rua Visconde de Abaeté, 66",-22.9158049,-43.243872,19,"VAULT",false
+"383","323 - Rua do Bispo","Rua do Bispo, 160",-22.92343994765997,-43.21305753316993,11,"VAULT",false
+"384","106 - VLT Rodoviária","613 Via Binário do Porto",-22.8991715,-43.2074682,15,"VAULT",false
+"389","71 - Palácio Guanabara","Rua Presidente Carlos de Campos, E/F ao N 417",-22.938574424426765,-43.18268720237732,11,"VAULT",false
+"391","270 - Praça Professor Francisco D'Áuria","121 Rua Uberaba",-22.923828479371657,-43.25865546868247,17,"VAULT",false
+"404","350 - Hilário de Gouvêia","RUA HILÁRIO DE GOUVÊIA, NA LATERAL DO N 2172 DA AV. ATLÂNTICA",-22.96971,-43.18286,27,"VAULT",false
+"416","358 - Praça Gabriel Soares","358 - Praça Gabriel Soares",-22.9309236,-43.2344362,15,"VAULT",false
+"417","108 - Pereira Reis","Avenida Professor Pereira Reis, oposto ao N 49",-22.89741,-43.20272,15,"VAULT",false
+"418","115 - Rodolfo Dantas","Rua Rodolfo Dantas, E/F N 81",-22.965966132402528,-43.17905927264871,19,"VAULT",false
+"419","156 - Highlight Botafogo","Avenida Lauro Sodré, oposto ao N 125 da R. Gen. Góis Monteiro, na ilha",-22.955638633857,-43.178091855369196,19,"VAULT",false
+"421","216 - Maison Laranjeiras","Rua Ipiranga, na lateral do N 139 da Rua das Laranjeiras",-22.933015735629855,-43.18356057861562,23,"VAULT",false
+"422","274 - Praça Sachet","Praça Sachet, E/F N 777 da Rua Barão de Mesquita",-22.926082683783253,-43.24869293947672,11,"VAULT",false
+"424","282 - Parque Recanto do Trovador","Rua Visconde de Santa Isabel, oposto ao N 363, no canteiro central",-22.917019,-43.261711,19,"VAULT",false
+"425","294 - Largo da Memória","Avenida Bartolomeu Mitre, oposto ao N 846",-22.97913576902897,-43.22459869538674,27,"VAULT",false
+"426","296 - Parque dos Pedalinhos","Avenida Epitácio Pessoa, oposto ao N 2900",-22.973562747198486,-43.20207653320466,15,"VAULT",false
+"427","297 - Nascimento Bitencourt","Rua Nascimento Bitencourt, E/F N 55",-22.961048670623764,-43.21452976836398,15,"VAULT",false
+"429","299 - Radial Sul","Rua Ministro Raul Fernandes, na lateral do N 124 da Rua Barão de Lucena",-22.946076878118873,-43.18797766069396,15,"VAULT",false
+"430","305 - Túnel Velho","Rua Henrique Oswald, E/F N 191",-22.963910060234934,-43.1921121398834,15,"VAULT",false
+"431","306 - Rua Paissandu","Rua Paissandu, E/F N 350",-22.93675046480389,-43.18222993936238,11,"VAULT",false
+"432","326 - Dona Delfina","Rua Dona Delfina, E/F N 72",-22.92991338792089,-43.24059524836115,11,"VAULT",false
+"433","331 - Evaristo da Veiga","Rua Senador Dantas, na lateral do N 35 da Rua Evaristo da Veiga",-22.910578939720654,-43.177316643516534,11,"VAULT",false
+"434","333 - General Justo","Avenida General Justo, E/F N 375",-22.907101223015545,-43.168751912783414,23,"VAULT",false
+"435","336 - Glória D'Or","Rua do Fialho, oposto ao N 15, esquina com a Rua Benjamim Constant",-22.921225242049687,-43.180330721045856,19,"VAULT",false
+"436","337 - Silveira Martins","Rua Silveira Martins, E/F N 140",-22.92590030591007,-43.178361005175226,11,"VAULT",false
+"437","338 - Fernando Osório","Rua Fernando Osório, na lateral do N 128 da Rua Senador Vergueiro",-22.936576729406855,-43.17582388949033,11,"VAULT",false
+"438","339 - Universidade Santa Úrsula","Rua Farani, E/F N 60, esquina com Rua Pinheiro Machado",-22.940787487584355,-43.18245844024147,11,"VAULT",false
+"439","342 - Quinta da Boa Vista 2","Rua General Herculano Gomes, próximo ao N 400 da Rua Francisco Eugênio, no canteiro central",-22.908778654796723,-43.222432241384226,15,"VAULT",false
+"440","345 - Padre Leonel Franca","Avenida Padre Leonel Franca, E/F N 182",-22.97883108786041,-43.22887072088093,11,"VAULT",false
+"442","349 - Instituto Benjamin Constant","Avenida Pasteur, oposto ao N 18 da Av. Portugal",-22.953379467196385,-43.17109629523261,11,"VAULT",false
+"443","355 - Colégio São Paulo","Avenida Vieira Souto, oposto ao N 22 e 46, no canteiro central",-22.98767,-43.1952,27,"VAULT",false
+"446","382 - Mirante da Niemeyer","Av. Niemeyer, próximo ao N 101, no mirante junto da ciclovia",-22.990783110382488,-43.22920162383427,17,"VAULT",false
+"448","390 - Pontal de Sernambetiba","Rua Projetada 1W, na lateral do N 7500 da Estr. do Pontal",-23.031448603893704,-43.47296960987963,11,"VAULT",false
+"451","402 - Aristides Lôbo 214","R. Aristídes Lôbo, E/F ao N 214",-22.92299996303571,-43.20875880910198,11,"VAULT",false
+"452","411 - Mais São Cristóvão","R. São Luiz Gonzaga, E/F ao N 653",-22.89991163924028,-43.22883881601557,19,"VAULT",false
+"454","416 - Term. Rod. Novo Rio","Avenida Francisco Bicalho, oposto ao N 1, na ilha",-22.898712158806877,-43.209786396434026,15,"VAULT",false
+"455","37 - Posto 9","Rua Farme de Amoedo, E/F N 16/18",-22.986134502898402,-43.200803369824534,11,"VAULT",false
+"459","29 - Praça Manuel Campos da Paz","29 - Praça Manuel Campos da Paz",-22.96707125707485,-43.18172836526188,17,"VAULT",false
+"460","135 - Acesso C - Metrô Botafogo","135 - Acesso C - Metrô Botafogo",-22.94947173112332,-43.18395552704271,23,"VAULT",false
+"461","147 - General Artigas"," General Artigas -  454",-22.983590148580102,-43.22643785585382,15,"VAULT",false
+"462","566 - Paróquia São José da Lagoa","Avenida Borges de Medeiros 2735",-22.96433322726896,-43.21478582799932,15,"VAULT",false
+"463","278 - Roberto Dias Lopes","278 - Roberto Dias Lopes",-22.963405943471827,-43.173187727348115,15,"VAULT",false
+"464","283 - Rua das Laranjeiras","Rua das Laranjeiras número 43",-22.93206478091119,-43.18104807062522,11,"VAULT",false
+"466","307 - Almirante Tamandaré","307 - Almirante Tamandaré",-22.932101518898918,-43.17481444109675,19,"VAULT",false
+"467","308 - Graça Aranha","308 - Graça Aranha",-22.908314617795074,-43.174490920133906,15,"VAULT",false
+"468","329 - Duvivier","RUA DUVIVIER, E/F 21",-22.96619850728163,-43.17756131979885,18,"VAULT",false
+"469","334 - Fundição Progresso","R. dos Arcos, 24 - a 50 - ",-22.912604677591847,-43.18073386644434,19,"VAULT",false
+"470","366 - Muda","Rua Garibaldi, E/F N 193",-22.93227719664065,-43.24642706934705,19,"VAULT",false
+"471","373 - Instituto de Pesquisa Jardim Botânico","373 - Instituto de Pesquisa Jardim Botânico",-22.96545961284751,-43.22801179721634,19,"VAULT",false
+"473","380 - Largo Maria Portugal","380 - Largo Maria Portugal",-22.936678771790188,-43.190031178626704,11,"VAULT",false
+"474","383 - Morro da Viúva","Rui Barbosa 566",-22.941654743623744,-43.17314390967018,15,"VAULT",false
+"477","386 - Santa Clara 50","Rua Santa Clara, E/F N 50",-22.971694549161036,-43.186942766270434,15,"VAULT",false
+"479","404 - Largo do Catumbi","Largo do Catumbi, oposto ao N 120 da Rua do Catumbi",-22.91749173782135,-43.1947381145083,19,"VAULT",false
+"487","265 - Praça Marechal Hermes","Praça Marechal Hermes, próximo ao N 80",-22.90047,-43.20763,11,"VAULT",false
+"488","361 - Sãens Peña - General Roca","361 - Sãens Peña - General Roca",-22.92515,-43.23301,15,"VAULT",false
+"489","381 - Lauro Sodré","Avenida Lauro Sodré, E/F N 1",-22.95632,-43.17733,23,"VAULT",false
+"490","558 - General Dionísio ","Rua Voluntários Da Pátria, 477",-22.956185564466384,-43.19770698616594,11,"VAULT",false
+"491","394 - Fundação Bradesco","Rua do Bispo, na lateral do N 269 da Rua Haddock Lobo",-22.92015130827581,-43.215253349737544,17,"VAULT",false
+"492","406 - Praça Maracanã","Rua São Francisco Xavier, E/F N 478",-22.913406032764424,-43.23497743869248,15,"VAULT",false
+"493","407 - Hospital do Câncer","Rua do Bispo, E/F N 29",-22.924943781796703,-43.21051208220902,19,"VAULT",false
+"494","436 - Largo da Prainha","Rua Edgard Gordilho, oposto ao N 63",-22.897196984929373,-43.18405477123336,19,"VAULT",false
+"495","437 - Praça Paris","Rua da Glória, E/F N 3",-22.917126008520384,-43.17698217361068,19,"VAULT",false
+"497","440 - SENAC Bambina","Rua Bambina, E/F ao N 107",-22.947158450241005,-43.18569440370484,15,"VAULT",false
+"498","448 - Dataprev - Botafogo","Rua Dezenove de Fevereiro, na lateral do N 460 da Rua Prof. Álvaro Rodrigues",-22.953582123369433,-43.18608636322937,19,"VAULT",false
+"499","449 - Sérgio Porto","Rua Humaitá, ao lado do N 205, esquina com a Rua Visc. de Silva",-22.959027730248984,-43.19995120605467,11,"VAULT",false
+"500","450 - Novotel Leme","Rua Aurelino Leal, oposto ao N 10",-22.961999097349757,-43.16833728161468,11,"VAULT",false
+"501","451 - Viveiros de Castro","Rua Ministro Viveiros de Castro, E/F N 62 e na lateral do N 231 da Rua Belfort Roxo",-22.96383868889769,-43.176385317649824,22,"VAULT",false
+"503","453 - Museu da Imagem e do Som (MIS)","Rua Djalma Ulrich, E/F ao N 23",-22.979092486555228,-43.18977285029717,27,"VAULT",false
+"504","454 - Copanema","Rua Francisco Sá, E/F ao N 112",-22.983758187799356,-43.19400926011887,11,"VAULT",false
+"505","455 - Largo Fernando Torres","Rua Almirante Saddock de Sá, oposto ao N 346",-22.98086416451492,-43.20410850000001,19,"VAULT",false
+"506","456 - Teixeira de Melo","Rua Teixeira de Melo, E/F ao N 10",-22.98661206153762,-43.19866598283806,27,"VAULT",false
+"508","515 - Praça do Ipê","Rua Emb. Carlos Taylor, na lateral do N 140 da Rua Marquês de São Vicente",-22.97689949408983,-43.23069917420501,19,"VAULT",false
+"509","439 - Dois de Dezembro","Rua Dois de Dezembro, E/F N 81",-22.92981910823955,-43.17725982023773,19,"VAULT",false
+"518","298 - Xavier da Silveira","Rua Xavier da Silveira, E/F N 13",-22.9771852,-43.1896166,11,"VAULT",false
+"519","360 - Rainha Elisabeth","Avenida Rainha Elisabeth, E/F N 5",-22.98478889871641,-43.189926000594326,15,"VAULT",false
+"520","385 - Term. Cosme Velho","Rua Cosmve Velho, ao lado do N 698",-22.9400266392126,-43.20026270059434,11,"VAULT",false
+"521","505 - Prado Júnior","Avenida Prado Júnior, E/F N 16",-22.964974476215886,-43.17443379265976,17,"VAULT",false
+"522","367 - Artur da Távola","Rua Conde de Bonfim, E/F N 827",-22.93574809680652,-43.2439824619713,19,"VAULT",false
+"523","388 - Largo de São Conrado","Estrada do Joá, oposto ao N 102",-22.998743464557933,-43.270163481545254,19,"VAULT",false
+"524","371 - Medeiros Pássaro","Rua Conde de Bonfim, E/F N 912",-22.937582308976655,-43.24631130304108,16,"VAULT",false
+"525","375 - Praça Professor Pinheiro Guimarães","Praça Professor Pinheiro Guimarães, 32",-22.93958543354867,-43.2493719018177,19,"VAULT",false
+"526","313 - ISERJ","Rua Senador Furtado, E/F N 26",-22.912474670485047,-43.21769072394257,15,"VAULT",false
+"528","370 - Nossa Senhora de Lourdes","Rua Nossa Senhora de Lourdes, oposto ao N 08",-22.92095895543903,-43.25368510429916,15,"VAULT",false
+"529","372 - Indiana","Rua Conde de Bonfim, E/F ao N 1198",-22.94232706579026,-43.25354105152053,15,"VAULT",false
+"530","379 - Terminal Usina","Avenida Édison Passos, E/F N 15",-22.946708441547713,-43.257287569311536,19,"VAULT",false
+"531","110 - Riviera Country Club","Avenida Lúcio Costa, E/F N 3700",-23.010434673357082,-43.335256705557256,17,"VAULT",false
+"536","281 - Armando Lombardi","Avenida Armando Lombardi, E/F N 301",-23.007369929713455,-43.307646587696844,11,"VAULT",false
+"538","347 - Rotary Internacional","Avenida Rotary Internacional, na lateral do N 31 da Rua do Parque",-22.904164436396197,-43.22199707189712,11,"VAULT",false
+"539","356 - Mendes Tavares","Rua Mendes Tavares, E/F N 65 e 69",-22.918761338936342,-43.25393207056961,15,"VAULT",false
+"540","359 - Gomes Braga","Rua Gomes Braga, em frente ao N 80",-22.922694416980224,-43.25028460118866,15,"VAULT",false
+"541","369 - Marista São José","Rua Conde de Bonfim, E/F N 1065",-22.940867194899955,-43.25051921904908,15,"VAULT",false
+"542","376 - Praça Tobias Barreto","Praça Tobias Barreto, oposto ao N 9 e 11",-22.913221901637815,-43.2422669196434,15,"VAULT",false
+"543","378 - Sukyo Makihari","Rua Conde de Bonfim, E/F N 1331",-22.94608986282038,-43.25519569636459,15,"VAULT",false
+"548","399 - Tavares de Lira","Rua Ministro Tavares de Lira, em frente ao N 75/93",-22.93201418474076,-43.179087877315524,15,"VAULT",false
+"549","400 - Maria Angélica","Rua Maria Angélica, em frente ao N 178 e na lateral do N 187 da Rua Jardim Botânico",-22.960936585546182,-43.207867782209014,15,"VAULT",false
+"551","403 - Martim Afonso","Rua Gustavo Sampaio, E/F N 155",-22.961955248928266,-43.16699477361068,15,"VAULT",false
+"555","410 - Olímpio Mourão Filho","Avenida Niemeyer, próximo ao N 10 da Rua Gen. Olímpio Mourão Filho",-22.9928259882593,-43.253508051451114,15,"VAULT",false
+"559","417 - Assaí Av. Brasil","Av. Brasil, E/F ao N 2251",-22.886142015010627,-43.229013982278445,27,"VAULT",false
+"565","565 - Rodrigo Otávio","Av Rodrigo Otávio, oposto ao n 269 (canteiro central)",-22.97474198341872,-43.22639040978699,15,"VAULT",false
+"566","435 - Rua de Santana","Rua Irineu Marinho, oposto ao N 28",-22.909495742614112,-43.19365440489351,17,"VAULT",false
+"567","441 - Praça Cacilda Becker","Praça Cacilda Becker, oposto ao N 40 da Rua Urbano Santos",-22.952637328952,-43.169030421599956,17,"VAULT",false
+"570","419 - Erasmo Braga","Avenida Erasmo Braga, E/F N 115",-22.904840468827047,-43.17361039751853,11,"VAULT",false
+"572","266 - Terminal Gentileza (TIG)","Avenida Brasil, oposto ao N 10 da Rua Comandante Garcia Pires",-22.90021,-43.21093,23,"VAULT",false
+"576","568 - Bulhões de Carvalho 542","Rua Bulhões de Carvalho, E/F ao N 542",-22.982815,-43.194297,23,"REGULAR",false
+"577","571 - Aires Saldanha 71","Rua Aires Saldanha, E/F ao N 71",-22.977939,-43.1895091,15,"REGULAR",false
+"590","564 - Aristides Espínola","Rua Aristides Espínola, na lateral do N 1064 da Av. Delfim Moreira",-22.987643445830116,-43.22633288591384,10,"REGULAR",false
+"593","219 - INCA","Av. Henrique Valadares, 114",-22.91251558878628,-43.189751722858816,15,"VAULT",false
+"594","570 - Sá Ferreira 3628","Rua Sá Ferreira, na lateral do Nº 3628 da Avenida Atlântica",-22.98084106028459,-43.190240961971284,19,"VAULT",false
+"595","563 - Alm. Saldanha da Gama","Av. Borges de Medeiros, oposto ao N 39 e 51",-22.985735523011325,-43.2159055214264,15,"VAULT",false
+"597","572 - Barão de Ipanema","Rua Barão de Ipanema, na lateral do N 3018 da Av. Atlântica",-22.975385483709996,-43.18811100552253,19,"VAULT",false
+"598","574 - Detran Presidente Vargas","Av. Pres. Vargas, em frente ao Nº 817",-22.903024850922915,-43.1829648036354,9,"VAULT",false
